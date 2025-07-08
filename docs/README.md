@@ -1,7 +1,7 @@
 # ThousandEyes - Splunk Integrations Workshop
 
 
-Welcome to the workshop for ThousandEyes and Splunk integration
+Welcome to the workshop for the ThousandEyes-Splunk integration!
 
 During the session you will learn about: 
 
